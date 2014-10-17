@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyk:home|Door43 (kyk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyk|d43-kyk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyk/archive/master.zip|d43-kyk.zip]]
+
+**Recent Changes**
+{{changes>ns = kyk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyk|Ethnologue data]]
+
